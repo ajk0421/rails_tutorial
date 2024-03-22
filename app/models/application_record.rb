@@ -3,4 +3,7 @@ class ApplicationRecord < ActiveRecord::Base
 
   def hoge
   end
+
+  def fuga
+  end
 end
